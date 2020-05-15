@@ -1,2 +1,4 @@
 # GameReference
-Collected or created for players as reference
+Collected or created data for players as reference.
+
+Each folder for a sperate game or series.
